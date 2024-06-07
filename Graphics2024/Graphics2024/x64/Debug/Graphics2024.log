@@ -1,0 +1,3 @@
+﻿  Application.cpp
+C:\Users\Lu1sR\Documents\VisualStudioProjects\Graphics2024\Graphics2024\Application.cpp(109,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  Graphics2024.vcxproj -> C:\Users\Lu1sR\Documents\VisualStudioProjects\Graphics2024\x64\Debug\Graphics2024.exe
